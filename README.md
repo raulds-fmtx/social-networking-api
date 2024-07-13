@@ -19,7 +19,7 @@ This is a RESTful API for a social network web application where users can share
 Use a tool like Insomnia or Postman to test the API routes. 
 
 ## Walkthrough Video
-[Walkthrough Video Link](your-video-link-here)
+[Walkthrough Video Link](https://drive.google.com/file/d/1OHAxX1IHxit0pDK2nKBXG-KlHeSaqJlt/view?usp=sharing)
 
 ## License
     
